@@ -1,17 +1,17 @@
 # Procesas
-- [ ] pradine failu struktura
+- [x] pradine failu struktura
 - index.html
 - .gitignore
--  [ ]  pavieshinti projekta per Git hub pages (gausim URL)
+-  [x]  pavieshinti projekta per Git hub pages (gausim URL)
 -  [ ]  README.md (susikurti)
     -   skirtas aprasyti kas ka ir kodel daro
     -   iterpti nuoroda i daroma dizaina
     -   iterpti nuoroda, kur galima pamatyti koda
--  [ ]  atlikti dizaino analize
+-  [x]  atlikti dizaino analize
 -  [ ]  surashyti HTML'a
 -  [ ]  ishsikirpti nuotraukas
     -   panaudoti realytivius kelius
-   [ ]  apra6yti stilius 
+   [ ]  aprashyti stilius 
 
 # pasikaitymui
 https://guides.github.com/features/mastering-markdown/
@@ -33,3 +33,7 @@ https://guides.github.com/features/mastering-markdown/
  
 </body>
 </html>
+
+https://rimantasziedelis.github.io/2-sherlock/
+
+
