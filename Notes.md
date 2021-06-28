@@ -1,15 +1,15 @@
 # Procesas
-- [x] pradine failu struktura
-- index.html
-- .gitignore
+-  [x] pradine failu struktura
+-  index.html
+-  .gitignore
 -  [x]  pavieshinti projekta per Git hub pages (gausim URL)
--  [ ]  README.md (susikurti)
+-  [x]  README.md (susikurti)
     -   skirtas aprasyti kas ka ir kodel daro
     -   iterpti nuoroda i daroma dizaina
     -   iterpti nuoroda, kur galima pamatyti koda
 -  [x]  atlikti dizaino analize
 -  [ ]  surashyti HTML'a
--  [ ]  ishsikirpti nuotraukas
+-  [x]  ishsikirpti nuotraukas
     -   panaudoti realytivius kelius
    [ ]  aprashyti stilius 
 
