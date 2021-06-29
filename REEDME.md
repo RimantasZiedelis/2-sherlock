@@ -9,7 +9,8 @@
 
 _30 group (rz home work) website project_
 
-This project is for educational porpuses only. Pull request are welcome, but priority for Rimantas Belovas real-life students! ("Thank you for your cooperation!" RB)
+This project is for educational porpuses only. Pull request are welcome, but priority for Rimantas Belovas real-life students! 
+("Thank you for your cooperation!" RB)
 
 Site published at https://github.com/RimantasZiedelis/2-sherlock
 
