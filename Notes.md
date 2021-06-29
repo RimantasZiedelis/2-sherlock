@@ -8,10 +8,10 @@
     -   iterpti nuoroda i daroma dizaina
     -   iterpti nuoroda, kur galima pamatyti koda
 -  [x]  atlikti dizaino analize
--  [ ]  surashyti HTML'a
+-  [x]  surashyti HTML'a
 -  [x]  ishsikirpti nuotraukas
     -   panaudoti realytivius kelius
-   [ ]  aprashyti stilius 
+   [x]  aprashyti stilius 
 
 # pasikaitymui
 https://guides.github.com/features/mastering-markdown/
