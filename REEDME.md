@@ -12,7 +12,7 @@ _30 group (rz home work) website project_
 This project is for educational porpuses only. Pull request are welcome, but priority for Rimantas Belovas real-life students! 
 ("Thank you for your cooperation!" RB)
 
-Site published at https://github.com/RimantasZiedelis/2-sherlock
+Site published at https://rimantasziedelis.github.io/2-sherlock/
 
 
 Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850246157619298324/404-Web-Page-Design-Examples-6.png)
