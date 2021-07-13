@@ -1,14 +1,14 @@
 ## 2-SHERLOCK
 30 group (rz home work) website project
 
-## Project features
+## About
 This project is for educational porpuses only. 
 
 Site published at https://rimantasziedelis.github.io/2-sherlock/
 
 Design: Serlokas
 
-Project features
+## Project features
 Github pages
 desktop only
 
