@@ -11,4 +11,5 @@ Project features
 Github pages
 desktop only
 
-[Author](Rimantas Ziedelis)
+## Authors
+[Rimantas](https://github.com/RimantasZiedelis)
