@@ -6,7 +6,7 @@ This project is for educational porpuses only.
 
 Site published at https://rimantasziedelis.github.io/2-sherlock/
 
-Design: Serlokas
+Design: [Serlokas](https://github.com/RimantasZiedelis/2-sherlock/blob/master/Sherlock.png)
 
 ## Project features
 Github pages
